@@ -61,7 +61,10 @@ Install via **Arduino Library Manager** or PlatformIO.
 
 ## Preview
 
-![Game on OLED](image/Game.jpg)
+<p align="center">
+  <img src="image/Game.jpg" alt="OLED Game Preview" width="300"/>
+</p>
+
 
 ---
 
