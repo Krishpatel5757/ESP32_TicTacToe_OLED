@@ -60,10 +60,9 @@ Install via **Arduino Library Manager** or PlatformIO.
 ---
 
 ## Preview
-
-<p align="center">
-  <img src="image/Game.jpg" alt="OLED Game Preview" width="300"/>
-</p>
+![Main Manu](image/MainMenu.jpg)
+![Levels](images/Levels.jpg)
+![Game on OLED](images/Game.jpg)
 
 
 ---
