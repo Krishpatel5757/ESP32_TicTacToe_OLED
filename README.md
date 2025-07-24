@@ -60,9 +60,9 @@ Install via **Arduino Library Manager** or PlatformIO.
 ---
 
 ## Preview
-![Main Manu](image/MainMenu.jpg)
-![Levels](images/Levels.jpg)
-![Game on OLED](images/Game.jpg)
+[Main Manu](image/MainMenu.jpg)
+[Levels](images/Levels.jpg)
+[Game on OLED](images/Game.jpg)
 
 
 ---
