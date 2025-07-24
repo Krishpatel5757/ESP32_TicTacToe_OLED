@@ -61,7 +61,7 @@ Install via **Arduino Library Manager** or PlatformIO.
 
 ## Preview
 
-![Game on OLED](images/Game.jpg)
+![Game on OLED](image/Game.jpg)
 
 ---
 
