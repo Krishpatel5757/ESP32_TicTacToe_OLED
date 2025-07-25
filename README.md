@@ -55,7 +55,7 @@ In single-player mode, the game includes **three difficulty levels**: *Easy*, *M
 - [Adafruit SSD1306](https://github.com/adafruit/Adafruit_SSD1306)
 - [Adafruit GFX Library](https://github.com/adafruit/Adafruit-GFX-Library)
 
-Install via **Arduino Library Manager** or PlatformIO.
+Install via PlatformIO.
 
 ---
 
